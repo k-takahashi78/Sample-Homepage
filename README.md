@@ -1,2 +1,0 @@
-# Sample-Homepage
-Sample-Homepage
