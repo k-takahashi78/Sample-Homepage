@@ -55,15 +55,14 @@ body{
   grid-column:2/3;
   display: table-cell;
   vertical-align: middle;
-
 }
 .far{
   padding-right:5px;
 }
 table{
   height:50px;
-  padding:0px 10px;
-
+  padding-left:10px;
+  padding-right:10px;
 }
 
 .nav-container{
